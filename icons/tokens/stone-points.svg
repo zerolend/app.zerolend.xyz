@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 28 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Stakestone首页-连接钱包备份-2" transform="translate(-1349.000000, -967.000000)">
+      <g id="编组-3备份" transform="translate(1350.000000, 968.000000)">
+        <g id="路径" transform="translate(0.363726, 7.238922)">
+          <line x1="11.6888758" y1="0" x2="10.0105909" y2="9.81464065" stroke="#06070A"
+                stroke-width="1.50509538" />
+          <g id="蒙版" transform="translate(0.000000, 3.452245)" fill="#06070A" fill-rule="nonzero">
+            <polygon id="path-1"
+                     points="0 6.57898415 5.26976181 -9.4882283e-14 9.60720278 4.36328485 19.2838885 2.23791103 24.5578829 7.22432564 12.185768 17.308833"/>
+          </g>
+          <g id="Clipped" transform="translate(10.375124, 7.690305)" stroke="#FFF3D1" stroke-width="1.50509538">
+            <line x1="0" y1="0" x2="1.81064419" y2="13.0707734" id="路径" />
+          </g>
+        </g>
+        <polygon id="路径-21" stroke="#06070A" stroke-width="1.50509538"
+                 points="12.5432766 0 5.63348809 5.43074927 0 16.852436 12.5432766 28 25.1030576 17.7378562 18.4717162 3.73489428"/>
+        <polyline id="路径-22" stroke="#06070A" stroke-width="1.50509538"
+                  points="5.63348809 5.43074927 11.9046537 7.23892197 18.4717162 3.73489428"/>
+      </g>
+    </g>
+  </g>
+</svg>
