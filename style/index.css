@@ -1,0 +1,7 @@
+.menu-item:hover {
+  background: #ffffff20;
+}
+
+.menu-item:hover > p {
+  color: white;
+}
