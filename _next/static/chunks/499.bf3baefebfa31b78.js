@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[499],{30499:function(n,e,u){u.d(e,{AssumeRoleCommand:function(){return t.xT},STSClient:function(){return t.XB}});var t=u(29781)}}]);
